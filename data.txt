@@ -1,0 +1,3 @@
+Nombre: Asier
+Edad: 32
+Color: Azul
